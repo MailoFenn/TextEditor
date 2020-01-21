@@ -1,0 +1,24 @@
+html, body {
+    padding: 0;
+    margin: 0;
+}
+
+.content {
+    width: 1000px;
+    margin: 0 auto;
+    margin-top: 50px;
+}
+
+.left-btn-block {
+    float: left;
+    padding-left: 50px;
+}
+
+.right-btn-block {
+    float: right;
+    padding-right: 50px;
+}
+
+.save {
+    margin-right: 50px;
+}
